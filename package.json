@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-apps",
+  "version": "0.0.1",
+  "description": "Common ESLint config for the FT Apps Team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Financial-Times/eslint-config-apps.git"
+  },
+  "author": "FT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Financial-Times/eslint-config-apps/issues"
+  },
+  "homepage": "https://github.com/Financial-Times/eslint-config-apps#readme",
+  "devDependencies": {}
+}
